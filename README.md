@@ -1,6 +1,5 @@
-Proje veri seti atılan şablon üzerinden incelenerek seçilen ilin İzmir olmasıyla birlikte bu veri setinin
-normalizasyonu ve verisetine uygun Veri Madenciliği algoritmaları uygulanarak elde edilen verilerin 
-havada bulunan maddelerin metoroloji raporları kullanılarak günlük hava kirliliği bilgilerine göre 
-kullanıcıların günlük bilgilendirilmesiyle dışarı çıkıp çıkmamaları gerektiği konusunda bir veri
-madenciliği projesi yapılacaktır. Projenin ilerleyişinin raporları ile birlikte Üniversite’mize ait öğrenci 
-maili ile oluşturulan Github hesabında paylaşılacaktır.
+Fırat Üniversitesi Teknoloji Fakültesi Yazılım Mühendisliği Bölümü YMH418 Yazılım Mühendisliği Güncel Konular Dersi
+
+Bu projede Hava kirliliği üzerine Çevre ve Şehircilik Bakanlığının Ücretsiz olarak kullanıma sunmuş olduğu havaizleme.gov.tr adresi üzerinden İzmir ili için elde edilen veri setleri üzerinde Veri Madenciliği ve Yapay Zeka Öğrenimlerinden elde edilen bilgiler kullanılarak veri seti üzerinde sınıflandırma, kümeleme ve sinir ağları uygulamaları gerçekleştirilmiştir.
+
+Final Projesi Tanıtım Linki: https://youtu.be/nImC5RN8ju0
